@@ -1,0 +1,21 @@
+footer {
+    display: flex;
+    justify-content: center;
+    /* padding: 50px; */
+    color: black;
+    background-color: skyblue;
+    height: 100px;
+    width: 100%;
+}
+
+.footer>* {
+    position: absolute;
+}
+
+.box {
+    color: black;
+}
+
+.box .contain .h2 {
+    color: black;
+}

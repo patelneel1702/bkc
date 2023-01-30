@@ -1,0 +1,43 @@
+/* Our Features text Css */
+
+.heading {
+    text-align: center;
+    padding: 2rem 0;
+    padding-bottom: 3rem;
+    font-size: 2rem;
+    color: black;
+}
+
+
+/* Feature text design */
+
+.heading span {
+    background: skyblue;
+    color: #fff;
+    display: inline-block;
+    padding: .5rem 2rem;
+    clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+
+.heading {
+    font-size: 2.5rem;
+}
+
+
+/* Features Box css */
+
+.features .box-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    width: 100%;
+    height: auto;
+}
+
+
+/*Features box padding  */
+
+.features .box-container .box {
+    padding: 3rem 2rem;
+}
